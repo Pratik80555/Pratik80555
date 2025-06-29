@@ -81,4 +81,6 @@
 
 ---
 
-> 🔥 *"Code it until you own it."*
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=1500&center=true&vCenter=true&width=400&lines=%22Code+it+until+you+own+it.%22" />
+</p>
