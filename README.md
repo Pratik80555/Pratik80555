@@ -1,15 +1,42 @@
-👋 Hi there! I'm Pratik, a passionate Computer Science student on a journey to explore the exciting world of technology and software development. 🚀
+# 👋 Hi there! I'm Pratik
 
-💻 Currently, I’m diving into topics like algorithms, data structures, web development, and machine learning. I love turning ideas into reality through code and am always eager to learn new skills and tools.
+🎓 A passionate Computer Science student exploring the world of technology and software development.
 
-🌟 My projects include. Check them out below!
+---
 
-🔧 I’m also a big fan of collaboration and open-source projects, so feel free to reach out if you’d like to connect or work together!
+## 💻 What I’m Working On
 
-📫 Let’s connect: 
+- Sharpening my skills in **Data Structures & Algorithms**
+- Building projects in **Web Development** and **Machine Learning**
+- Learning tools and technologies to become a full-stack developer
 
-Thanks for stopping by!
-<!---
-Pratik80555/Pratik80555 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+## 🌟 Featured Projects
+
+- **Women Safety App** – Android + Web app using real-time GPS and Bluetooth triggers  
+- **SkinScrapper** – A Unity-based third-person shooter game framework  
+- **Technobharati Registration System** – Multi-department UPI-integrated event platform
+
+> 📌 *More projects coming soon! Check the pinned repositories below.*
+
+---
+
+## 🔧 Let's Collaborate
+
+I’m open to collaboration on:
+
+- Open-source contributions  
+- Tech-for-good projects  
+- Hackathons & team builds  
+
+---
+
+## 📫 Connect with Me
+
+Feel free to reach out via GitHub discussions or issues on any repo!
+
+---
+
+> “Code is a tool to turn imagination into reality.” 🚀
+
